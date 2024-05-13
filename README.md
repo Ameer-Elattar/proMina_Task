@@ -9,7 +9,7 @@ requirements:
 * delete all the pictures in the album
 * move the pictures to another album
 * the user experience should be as easy as possible
-
+-------------------------------------------------------------------------------------------------------------
 * to run the project u should create a database in mysql
 * run the follwoing command
 ```
